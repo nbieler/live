@@ -1,0 +1,1 @@
+### Conflictos en GIT - 08/04/2026
