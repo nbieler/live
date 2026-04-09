@@ -5,3 +5,6 @@
 - Luis
 - Wimer Esteban
 - Moisés
+- Eduardo
+- David
+- Cristian
