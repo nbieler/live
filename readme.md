@@ -8,3 +8,4 @@
 - Eduardo Ismael
 - David
 - Cristian
+- Nicolás Bieler
